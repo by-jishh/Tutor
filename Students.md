@@ -21,6 +21,7 @@
  + 雷志成 https://github.com/withlzc
  + 周竞帆 https://github.com/zhoujingfan
  + 张和辉 https://github.com/HalfClock  https://gitlab.com/BTZs
+ + 姬哨晗 https://github.com/by-jishh
  
 # Graduates 2017
  + 刘宇宸 https://github.com/1YCxZ
